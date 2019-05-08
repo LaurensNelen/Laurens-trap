@@ -1,0 +1,8 @@
+div:target {
+    display: block;
+}
+
+.hidden
+{
+    display: none;
+}
